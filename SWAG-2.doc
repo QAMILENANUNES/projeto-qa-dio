@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SWAG-2] Como usuário desejo que seja criado  um botão ESQUECI MINHA SENHA na tela de login PARA REDEFINIÇÃO DE SENHA</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://milenanunesqa.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SWAG-2]&nbsp;<a href="https://milenanunesqa.atlassian.net/browse/SWAG-2">Como usuário desejo que seja criado  um botão ESQUECI MINHA SENHA na tela de login PARA REDEFINIÇÃO DE SENHA</a>
+            <span class="subText">
+               Criado: 22/nov/22                   &nbsp;Atualizado(a): 22/nov/22
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">IN PROGRES</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://milenanunesqa.atlassian.net/secure/BrowseProject.jspa?id=10001">swaglabselaboration</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="637bb7135fc160544e18b902"
+                id="word_reporter_637bb7135fc160544e18b902"
+                href="https://milenanunesqa.atlassian.net/secure/ViewProfile.jspa?accountId=637bb7135fc160544e18b902">
+                    Milena Ramos
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Não atribuído
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10001-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10001-value" class="value" bgcolor="#ffffff" width="80%">      0|i00007:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10001-value" class="value" bgcolor="#ffffff" width="80%">quadro Sprint 1</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story point estimate:</b></td>
+                <td id="customfield_10016-10001-value" class="value" bgcolor="#ffffff" width="80%">    8
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Valor:</b> O botão esqueci minha senha é importante para o usuário que caso esqueça sua senha e não consiga efetuar o login para fazer compras ele consiga redefini-la ao digitar seu email e ao enviá-lo receba um token temporário para redefinição de senha.</p>
+
+<p><b>Narrativa do usuário:</b></p>
+
+<p>COMO usuário</p>
+
+<p>EU desejo que seja criado o botão esqueci minha senha</p>
+
+<p>PARA que eu possa redefinir minha senha caso eu esqueça</p>
+
+<p><b>Requisitos:</b></p>
+
+<p><b>ATORES:</b> clientes </p>
+
+<p><b>INTERFACE</b>:ver documentos em anexos na UI/UX</p>
+
+<p><b>DADOS:</b></p>
+
+<p>criação de banco de dados/tabelas para armazenar informações dos clientes cadastrados</p>
+
+<p>criação de api de integração com o front-end e banco criado</p>
+
+<p>criação de tela de login para permitir que usuário acesse a tela de login e visualize o botão esqueci minha senha.</p>
+
+<p><b><em>PLATAFORMA/AMBIENTE</em></b><b>:</b></p>
+
+<p>web/mobile</p>
+
+<p>devem ser configurados ambientes e pepilines para desenvolvimento ,homologação de usuário,homologação QA e produção.</p>
+
+<p><b>CRITÉRIOS DE ACEITE:</b></p>
+
+<p>usuário deve visualizar botão esqueci minha senha na tela de login</p>
+
+<p>usuário deve visualizar botão esqueci minha senha para acessar tela de redefinição de senha</p>
+
+<p>usuário deve ter cadastro com email no sistema para redefinir senha por email</p>
+
+<p>CENÁRIO: usuário cadastrado tenta recuperar senha após digitar username</p>
+
+<p>DADO que o usuário está na tela de login</p>
+
+<p>QUANDO preencher o campo user name com usuário válido</p>
+
+<p>E clicar em esqueci minha senha</p>
+
+<p>ENTÃO será redirecionado para a tela de redefinição de senha</p>
+
+
+
+<p>CENÁRIO: usuário com email tenta receber email de redefinição</p>
+
+<p>DADO  clicar no botão esqueci minha senha</p>
+
+<p>QUANDO é redirecionado para a tela de redefinição de senha</p>
+
+<p>E preenche o campo de email</p>
+
+<p>E clica e enviar </p>
+
+<p>ENTÃO recebe um token temporário para redefinição de senha</p>
+
+
+
+<p>CENÁRIO: usuário sem email cadastrado tenta receber email de redefinição</p>
+
+<p>DADO  clicar no botão esqueci minha senha</p>
+
+<p>QUANDO é redirecionado para a tela de redefinição de senha</p>
+
+<p>E preenche o campo de email</p>
+
+<p>E clica e enviar </p>
+
+<p>ENTÃO recebe uma mensagem de email não cadastrado no sistema</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Tue Nov 22 19:18:23 UTC 2022 por Milena Ramos usando JIRA 1001.0.0-SNAPSHOT#100210-sha1:eab5823fbe61ae61303baa14f059e2cc747a5b5a.
+
+</body>
+</html>
